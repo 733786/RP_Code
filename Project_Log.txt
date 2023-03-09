@@ -1,0 +1,3 @@
+07/03/2023 First try to setup ROS2 to work with catkin -- Failed
+08/03/2023 Attempt to make ROS1 noetic work on Ubuntu 22.04 -- Failed
+09/03/2023 Second attempt to setup ROS2 to work with catkin, trying using ament with catkin API
