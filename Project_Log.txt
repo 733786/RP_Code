@@ -7,3 +7,4 @@
 		roscore startup --> correct catkin_init_workspace --> correct build --> source devel/setup.bash -->
 		--> rosrun scan_matcher scan_matcher_node ~scan:=/robot_0/base_scan --> run rviz --> rosbag play kuka_short.bag
 13/03/2023 First commit from Lattinone
+		Started working on project files

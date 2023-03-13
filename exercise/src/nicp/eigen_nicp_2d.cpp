@@ -66,4 +66,10 @@ void NICP::optimizeCorrespondences() {
 
 void NICP::run(int max_iterations) {
   // TODO
+  int curr_it = 0;
+  while (curr_it < max_iterations)
+  {
+	optimizeCorrespondences();
+	++curr_it;
+  }
 }
